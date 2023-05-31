@@ -8,41 +8,35 @@
 
 <p style="display: inline-block;" align="center">
   <kbd>
-    <kbd>Programming Languages</kbd>
+    <kbd>프로그래밍 언어</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
   </kbd>
   <kbd>
-    <kbd>Front-end</kbd>
+    <kbd>프론트엔드</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
   </kbd>
-  <kbd>
-    <kbd>Database</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-  </kbd>
   <br>
   <br>
   <kbd>
-    <kbd>Data Science & AI</kbd>
+    <kbd>AI</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
   </kbd>
   <kbd>
-    <kbd>Tools</kbd>
+    <kbd>기타툴</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   </kbd>
    <kbd>
-    <kbd>Game Development</kbd>
+    <kbd>게임 개발</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
